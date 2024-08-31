@@ -4,25 +4,25 @@
 translate french d14s11_68347417:
 
     # arj "[mcname], come get some!"
-    arj "[mcname], viens en prendre !"
+    arj "[mcname], viens en chercher !"
 
 # game/code/d14p2/d14s11.rpy:30
 translate french d14s11_7ab7777a:
 
     # sy "Isn't that why we're all here?"
-    sy "N'est-ce pas ce que nous attentions ?"
+    sy "N'est-ce pas la raison de notre présence ?"
 
 # game/code/d14p2/d14s11.rpy:33
 translate french d14s11_91d5a63c:
 
     # mc "Hello, ladies..."
-    mc "Salut, mes demoiselles..."
+    mc "Bonjour, mes demoiselles..."
 
 # game/code/d14p2/d14s11.rpy:36
 translate french d14s11_7f1e287e:
 
     # aw "There's a seat over here for you."
-    aw "Il y a une place ici pour toi."
+    aw "Il y a une place pour toi, ici."
 
 # game/code/d14p2/d14s11.rpy:39
 translate french d14s11_2a73bd68:
@@ -34,12 +34,13 @@ translate french d14s11_2a73bd68:
 translate french d14s11_44361b36:
 
     # sb "I can't really-"
-    sb "Je ne peux pas vraiment-"
+    sb "Vraiment, je ne peux pas-"
 
 # game/code/d14p2/d14s11.rpy:45
 translate french d14s11_b5af82b8:
 
     # lc "Shhh... tables don't talk."
+#ça ressemble à une expression, ne pas traduire litéralement
     lc "Chut... les tables ne parlent pas."
 
 # game/code/d14p2/d14s11.rpy:48
