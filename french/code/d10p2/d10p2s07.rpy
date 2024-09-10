@@ -2,31 +2,31 @@
 translate french d10p2s07_f239d031:
 
     # mct "Mi... Squizzle told me to go 2nd floor bedroom..."
-    mct "Mi...Squizzle m'a dit d'aller dans la chambre du 2ème étage..."
+    mct "Mi ... Squizzle m'a dit d'aller dans la chambre du 2ème étage ..."
 
 # game/code/d10p2/d10p2s07.rpy:11
 translate french d10p2s07_08f2922a:
 
     # mc "Hey there, Allison..."
-    mc "Salut, Allison..."
+    mc "Salut, Allison ..."
 
 # game/code/d10p2/d10p2s07.rpy:17
 translate french d10p2s07_8a119c7a:
 
     # aw "Hey, [mcname]! What's up?"
-    aw "Hé, [mcname] ! Quoi de neuf?"
+    aw "Hé, [mcname] ! Quoi de neuf ?"
 
 # game/code/d10p2/d10p2s07.rpy:20
 translate french d10p2s07_2aa117b6:
 
     # mc "Actually, now that I've got you alone... {w}You used to date Lyssa, right?"
-    mc "En fait, maintenant que je t'ai seul...{w}Tu sortais avec Lyssa, n'est-ce pas ?"
+    mc "En fait, maintenant que je t'ai seule dis-moi ... {w}Tu sortais avec Lyssa, n'est-ce pas ?"
 
 # game/code/d10p2/d10p2s07.rpy:23
 translate french d10p2s07_f857cff3:
 
     # aw "I don't know if you'd call it \"dating\", but yeah, we used to do stuff together."
-    aw "Je ne sais pas si tu l'appellerais \"sortie\", mais oui, nous avions l'habitude de faire des choses ensemble."
+    aw "Je ne sais pas si tu l'appellerais ça \"sortir\", mais oui, nous avions l'habitude de faire des choses ensemble."
 
 # game/code/d10p2/d10p2s07.rpy:26
 translate french d10p2s07_d1c8ab6c:
@@ -38,7 +38,7 @@ translate french d10p2s07_d1c8ab6c:
 translate french d10p2s07_fe22efca:
 
     # aw "A physical relationship, sure. Lyssa needed a fuckbuddy, and I was always D.T.F."
-    aw "Une relation physique, bien sûr. Lyssa avait besoin d'un compagnon de baise, et j'ai toujours été prêt à baiser."
+    aw "Une relation physique, c'est sûr. Lyssa avait besoin d'un compagnon de baise, et j'ai toujours été prêt à la baiser."
 
 # game/code/d10p2/d10p2s07.rpy:30
 translate french d10p2s07_ffe7c7f6:
