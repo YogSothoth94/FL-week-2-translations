@@ -374,5 +374,5 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacité de la boîte de dialogue"
 
